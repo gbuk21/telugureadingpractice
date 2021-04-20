@@ -1,0 +1,19 @@
+---
+layout: post
+title: Telugu reading practice  తెలుగు  చదవడం  ప్రాక్టీస్ 287
+youtubeId: c41UO6KBEbI
+---
+ 
+ 
+Telugu reading practice
+ 
+ 
+ 
+ 
+ 
+
+
+{% include youtubePlayer.html id=page.youtubeId %}
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2022-06-25-Telugu reading practice  తెలుగు  చదవడం  ప్రాక్టీస్ 286.md%})
+ 

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Telugu reading practice తెలుగు  చదవడం  ప్రాక్టీస్ 82
+youtubeId: 9-PImlWG53Q
+---
+ 
+ 
+Telugu reading practice
+ 
+ 
+ 
+ 
+ 
+
+
+{% include youtubePlayer.html id=page.youtubeId %}
+ 
+[Next]({{ site.baseurl }}{% link  split2/_posts/2023-11-05-Telugu reading practice తెలుగు  చదవడం  ప్రాక్టీస్ 83.md%})
+ 
